@@ -129,8 +129,8 @@ dmypy.json
 .pyre/
 
 .DS_Store
-bp_evo/src/bp_evo.egg-info
-bp_evo/src/bp_evo/bp_evo.egg-info
+bipevo_pkg/src/bp_evo.egg-info
+bipevo_pkg/src/bipevo/bp_evo.egg-info
 usage_demo/result-plot.png
 usage_demo/gen_sim
 venv
