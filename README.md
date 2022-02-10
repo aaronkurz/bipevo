@@ -11,8 +11,7 @@ Last tested with Python 3.9.
 
 1. Install the bpmsim package
    1. Navigate to the folder `bpmsim`
-   2. Unzip `bpmsim_files.zip`
-   3. Go with your terminal into the unzipped folder `bpmsim_files`
+   3. Go with your terminal into the folder `bpmsim_files`
    4. Run `pip install bpmsim-0.1.tar.gz`
 2. Install the bipevo package
    1. Go with your terminal to the folder `bipevo_pkg`
