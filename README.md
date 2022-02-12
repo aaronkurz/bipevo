@@ -1,5 +1,5 @@
 # bipevo
-Business Process Resource Allocation Algorithm Using Differential Evolution
+Business Process Resource Planning Algorithm Using Differential Evolution
 
 Reimplementation of ["Innovative Approach in Modeling Business Processes with a Focus on Improving the Allocation of Human Resources" by Djedovic et al.](https://www.hindawi.com/journals/mpe/2018/9838560/)
 
