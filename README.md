@@ -3,8 +3,6 @@ Business Process Resource Allocation Algorithm Using Differential Evolution
 
 Reimplementation of ["Innovative Approach in Modeling Business Processes with a Focus on Improving the Allocation of Human Resources" by Djedovic et al.](https://www.hindawi.com/journals/mpe/2018/9838560/)
 
-For info and more resources, see the folder `non-code`
-
 ## Usage
 
 Last tested with Python 3.9.
@@ -16,3 +14,4 @@ Last tested with Python 3.9.
 2. Install the bipevo package
    1. Go with your terminal to the folder `bipevo_pkg`
    2. Run `pip install -e .  `
+3. For details on how to use the package, see `usage_demo/demo.py`. The usage should, except for the concrete values provided, be the same/similar for any process model.
